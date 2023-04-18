@@ -1,3 +1,6 @@
+# egjs 적용해보기
+참고 영상 : https://tv.naver.com/v/16970960
+
 ## iPhone 라이브 코딩
 
 egjs 오픈 서커스에 오신 것을 환영합니다.
